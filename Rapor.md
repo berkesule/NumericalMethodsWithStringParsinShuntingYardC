@@ -12,15 +12,11 @@
 
 **Sayısal Analiz**
 
-**Gr: 2**
-
-**Öğr. Gör. Dr. Ahmet ELBİR**
-
 **Dönem Projesi**
 
 **İsim: Berke Bünyamin Süle**
 
-**No: 23011026**
+
 
 **E-posta: bunyamin.sule@std.yildiz.edu.tr**
 
